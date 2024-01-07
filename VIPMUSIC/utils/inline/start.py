@@ -33,7 +33,7 @@ def private_panel(_):
             )
         ],
         [
-            InlineKeyboardButton(text="𝐆ɾσυ𝐏", url=config.SUPPORT_CHAT),
+            InlineKeyboardButton(text="𝐎𝐰𝐧𝐞𝐫", url=config.SUPPORT_CHAT),
             InlineKeyboardButton(text="𝐌𝐲𝐫𝐚 𝐧𝐞𝐭𝐰𝐨𝐫𝐤", url=config.SUPPORT_CHANNEL),
         ],
         [
