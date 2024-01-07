@@ -93,7 +93,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         [
             InlineKeyboardButton(
                 text=f"⛦ ᴊᴏɪɴ ⛦",
-              url="https://t.me/vip_creators",
+              url="https://t.me/myra_updates",
             ),
         ],
     ]
@@ -129,7 +129,7 @@ def stream_markup(_, chat_id):
         [
             InlineKeyboardButton(
                 text=f"⛦ ᴊᴏɪɴ ⛦",
-              url="https://t.me/vip_creators",
+              url="https://t.me/myra_updates",
             ),
         ],
     ]
@@ -258,7 +258,7 @@ def queue_markup(_, videoid, chat_id):
         [
             InlineKeyboardButton(
                 text=f"⛦ ᴊᴏɪɴ ⛦",
-              url="https://t.me/vip_creators",
+              url="https://t.me/myra_updates",
             ),
         ],
     ]
