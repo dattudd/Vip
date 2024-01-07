@@ -33,11 +33,11 @@ def private_panel(_):
             )
         ],
         [
-            InlineKeyboardButton(text="𝐆𝚁𝙾𝚄𝙿✨", url=config.SUPPORT_CHAT),
-            InlineKeyboardButton(text="𝐌ᴏʀᴇ🥀", url=config.SUPPORT_CHANNEL),
+            InlineKeyboardButton(text="𝐆ɾσυ𝐏", url=config.SUPPORT_CHAT),
+            InlineKeyboardButton(text="𝐌𝐲𝐫𝐚 𝐧𝐞𝐭𝐰𝐨𝐫𝐤", url=config.SUPPORT_CHANNEL),
         ],
         [
-            InlineKeyboardButton(text="۞ 𝐅𝙴𝙰𝚃𝚄𝚁𝙴𝚂 ۞", callback_data="settings_back_helper")
+            InlineKeyboardButton(text=" 𝐂σɱɱαɳԃ𝐒 ", callback_data="settings_back_helper")
         ],
     ]
     return buttons
